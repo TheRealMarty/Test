@@ -5,11 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/marti/OneDrive/Desktop/test2/Content/BP-TestActor.uasset",
-				"C:/Users/marti/OneDrive/Desktop/test2/Content/BP-TestActor3.uasset",
-				"C:/Users/marti/OneDrive/Desktop/test2/Content/BP-TestActor4.uasset",
 				"C:/Users/Ryun/Desktop/Prototype/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/BP_TestActor2.uasset"
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/BP_TestActor2.uasset",
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/Prototype/Blueprints/Character/BP_BaseCharacter.uasset",
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/Prototype/Levels/Prototype/Prototype01.umap",
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/Prototype/Blueprints/Gamemode/BP_GameMode.uasset",
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/Prototype/Blueprints/Input/Input_Actions/IA_Look.uasset",
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/Prototype/Blueprints/Input/Input_Actions/IA_Move.uasset",
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/Prototype/Blueprints/Input/Input_Actions/IA_Jump.uasset",
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/Prototype/Blueprints/Input/Input_Actions/IA_Crouch.uasset",
+				"C:/Users/Ryun/Desktop/GitHub_Repository_Project/Content/Prototype/Blueprints/Input/Input_Mapping/IA_Mapping.uasset",
+				"C:/Users/marti/OneDrive/Desktop/test2/Content/BP-TestActor.uasset",
+				"C:/Users/marti/OneDrive/Desktop/test2/Content/BP-TestActor3.uasset"
 			]
 		}
 	]
